@@ -1,1 +1,1 @@
-# Becoming an A-list celebrity 
+# Becoming an A-list celebrity
