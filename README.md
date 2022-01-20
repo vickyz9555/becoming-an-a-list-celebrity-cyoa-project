@@ -1,1 +1,1 @@
-# becoming-an-a-list-celebrity-cyoa-project
+# Becoming an A-list celebrity 
