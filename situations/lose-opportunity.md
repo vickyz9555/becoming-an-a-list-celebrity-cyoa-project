@@ -4,4 +4,4 @@ your boss calls you and lets you know that you missed an oppotunity to perform, 
 [Go to extra training](../situations/extra-training.md)
 
 
-[Give up on the career and go home](../situations/career)
+[Give up on the career and go home](../situations/home.md)
