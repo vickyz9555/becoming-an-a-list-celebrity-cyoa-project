@@ -2,4 +2,4 @@ You had been practicing for hours and hours. Therefore, you are given the opport
 
 [takes opportunity and did well](../situations/celebrity.md)  
 
-takes opportunity and screwed up
+[takes opportunity and screwed up](../situations/didnt-debut.md)
