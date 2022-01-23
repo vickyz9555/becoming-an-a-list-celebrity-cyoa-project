@@ -1,4 +1,4 @@
-
+Since you decided to continue sleeping, you missed the training. What do you want to do ne
 
 [go to extra training](situations/extra-training.md)  
 
