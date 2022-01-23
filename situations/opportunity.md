@@ -1,5 +1,5 @@
 You had been practicing for hours and hours. Therefore, you are given the opportunity to perform.  
 
-[takes opportunity and did well](../situations/celebrity.md)  
+[did well](../situations/celebrity.md)  
 
-[takes opportunity and screwed up](../situations/didnt-debut.md)
+[screwed up](../situations/didnt-debut.md)
