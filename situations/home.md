@@ -1,5 +1,3 @@
-you have had a long day and you go to bed
+y
 
-
-
-
+[Click to restart](..//README.md)
