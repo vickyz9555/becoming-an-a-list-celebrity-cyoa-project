@@ -1,4 +1,3 @@
-Congradulations! Your hard work pays off. Now you're a celebrity!
+[did not debut](../situations/didnt-debut.md)  
 
-[Click to restart](..//README.md)
-
+[got into round 1](../situations/round-1.md)
