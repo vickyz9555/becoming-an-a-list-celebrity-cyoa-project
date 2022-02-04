@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Congratulations! Your hard work pays off. Now you're a celebrity!
-=======
 Congradulations! Your hard work pays off. Now you're a celebrity!
 
 [Click to restart](..//README.md)
