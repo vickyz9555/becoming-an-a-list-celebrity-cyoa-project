@@ -1,3 +1,3 @@
 Congratulations, you have been successfully debuted!!  
 
-[click to restart](..//README.md)
+[click to restart](..//alarm.md)
