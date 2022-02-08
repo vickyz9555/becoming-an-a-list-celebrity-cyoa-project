@@ -6,4 +6,4 @@ You accept the offer.
 [Stop training and go home](../situations/home.md)
 
 
-[Continue training and do your best](../situations/celebrity.md)
+[Continue training and do your best](../situations/round-1.md)
