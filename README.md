@@ -1,6 +1,6 @@
 # Becoming an A-list celebrity
 
-The purpose of creating this repository was to show the life of becoming an A-list celebrity. In this game, in order to become an A-list celebrity, you had to make good decisions.  
+## The purpose of creating this repository was to show the life of becoming an A-list celebrity. In this game, in order to become an A-list celebrity, you had to make good decisions.  
 
 Click [here](alarm.md) to begin!  
 
