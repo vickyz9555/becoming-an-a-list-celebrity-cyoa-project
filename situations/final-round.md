@@ -1,7 +1,5 @@
-Woah, you have been chosen to be 1 of the 7 members to debut!!  
+Woah, you have been chosen to be 1 of the 7 members to debut! Do you take the career
 
 [debut as a celebrity](../situations/debut.md)  
 
-Damn! You're so close to debut as a celebrity. Practice more and come back next year.
-
-[did not debut](../situations/didnt-debut.md)
+[don't debut](../situations/didnt-debut.md)
