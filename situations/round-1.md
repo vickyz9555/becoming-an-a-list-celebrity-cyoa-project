@@ -1,7 +1,5 @@
-So sorry to tell you that you did not make it to the finals, but you recieved a lot of fans and fame :)  
+You perform on stage and you nearly didn't qualify for the finals because you were so nervous and messed up a bit
 
-[did not debut](../situations/home.md)
+[Go home](../situations/home.md)
 
-Nice, You did very well on the performance. You're on your way to the final round!  
-
-[final round](../situations/final-round.md)
+[Continue to the final round](../situations/final-round.md)
