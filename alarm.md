@@ -4,4 +4,4 @@ The alarm has gone off. What do you do now?
 
 [continue sleeping](situations/miss-training.md)  
 
-! [Alarm](clock.png)
+![](clock.png) 
